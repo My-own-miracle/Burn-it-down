@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Proga/Burn-it-down/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DLibsort_EXPORTS -DMYLIB_EXPORTS @CMakeFiles/Libsort.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\Libsort.dir\\src\\Libsort.cpp.obj -c C:\\Proga\\Burn-it-down\\DLL-sort\\src\\Libsort.cpp",
+  "file": "C:/Proga/Burn-it-down/DLL-sort/src/Libsort.cpp",
+  "output": "CMakeFiles/Libsort.dir/src/Libsort.cpp.obj"
+}
+]

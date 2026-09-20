@@ -1,0 +1,5 @@
+C:/Proga/Burn-it-down/DLL-sort/client/build/CMakeFiles/client.dir
+C:/Proga/Burn-it-down/DLL-sort/client/build/CMakeFiles/ALL_BUILD.dir
+C:/Proga/Burn-it-down/DLL-sort/client/build/CMakeFiles/ZERO_CHECK.dir
+C:/Proga/Burn-it-down/DLL-sort/client/build/libsort_build/CMakeFiles/Libsort.dir
+C:/Proga/Burn-it-down/DLL-sort/client/build/libsort_build/CMakeFiles/ALL_BUILD.dir

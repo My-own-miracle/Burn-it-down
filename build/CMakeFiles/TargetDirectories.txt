@@ -1,0 +1,3 @@
+C:/Proga/Burn-it-down/build/CMakeFiles/Libsort.dir
+C:/Proga/Burn-it-down/build/CMakeFiles/edit_cache.dir
+C:/Proga/Burn-it-down/build/CMakeFiles/rebuild_cache.dir

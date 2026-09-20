@@ -1,0 +1,10 @@
+^C:\PROGA\BURN-IT-DOWN\DLL-SORT\BUILD\CMAKEFILES\5F6BB4BD51FF894E7B396107DAFEFC0C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Proga/Burn-it-down/DLL-sort -BC:/Proga/Burn-it-down/DLL-sort/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Proga/Burn-it-down/DLL-sort/build/DLL-sort.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

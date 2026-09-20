@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Proga/Burn-it-down/DLL-sort/build/cmake_install.cmake",
+		"C:/Proga/Burn-it-down/DLL-sort/build/examples/cmake_install.cmake",
+		"C:/Proga/Burn-it-down/DLL-sort/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

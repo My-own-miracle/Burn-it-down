@@ -1,0 +1,8 @@
+C:/Proga/Burn-it-down/DLL-sort/build/CMakeFiles/Libsort.dir
+C:/Proga/Burn-it-down/DLL-sort/build/CMakeFiles/RUN_TESTS.dir
+C:/Proga/Burn-it-down/DLL-sort/build/CMakeFiles/ALL_BUILD.dir
+C:/Proga/Burn-it-down/DLL-sort/build/CMakeFiles/ZERO_CHECK.dir
+C:/Proga/Burn-it-down/DLL-sort/build/examples/CMakeFiles/demo.dir
+C:/Proga/Burn-it-down/DLL-sort/build/examples/CMakeFiles/RUN_TESTS.dir
+C:/Proga/Burn-it-down/DLL-sort/build/tests/CMakeFiles/tests.dir
+C:/Proga/Burn-it-down/DLL-sort/build/tests/CMakeFiles/RUN_TESTS.dir
